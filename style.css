@@ -1,0 +1,29 @@
+.green-background {
+    background-color: rgb(1, 74, 1);
+    height: 100px;
+  }
+
+  .grad-background {
+    background: url('http://courses.ics.hawaii.edu/ics314f22/morea/ui-frameworks/murphys-new-background.jpeg') no-repeat center center fixed;
+    background-size: cover;
+    height: 700px;
+  }
+
+#topMenu{
+color: white;
+padding-left: 375px;
+}
+
+.nav-link{
+    color: white;
+    
+}
+
+.nav-link:hover{
+    color: white;
+}
+
+footer{
+    background-color:rgb(1, 74, 1);
+    color: white;
+}
